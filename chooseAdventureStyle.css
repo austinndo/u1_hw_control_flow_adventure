@@ -1,0 +1,14 @@
+body {
+  font-family:'Anek Malayalam', sans-serif;
+  background-color: rgba(211, 174, 107, 0.254);
+}
+
+button {
+  display: block;
+}
+
+h2 {
+  align-content:flex-end;
+}
+
+
